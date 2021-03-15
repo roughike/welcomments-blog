@@ -1,9 +1,0 @@
-{
-  "id": "01EZB1E3E6DPTM1ZYW89M41W89",
-  "date": "2021-02-24T22:09:31.079Z",
-  "author": {
-    "name": "Iiro Krankka",
-    "website": "https://iiro.dev"
-  },
-  "message": "Hey there!\n\nThese comments are powered by [Welcomments](https://welcomments.io), and they are **fully static HTML**.\n\nThey are stored as JSON files in a GitHub repository. Whenever there's a new change in the GitHub repository, Netlify runs a new Jekyll build that crunches all the articles and comments into beautiful static HTML.\n\nDon't believe me? See the [JSON file](https://github.com/roughike/welcomments-blog/tree/master/_data/welcomments/introducing-welcomments/01EZB1E3E6DPTM1ZYW89M41W89.json) for this very comment."
-}

@@ -1,0 +1,9 @@
+{
+  "id": "01EZPCERNZETPSTVJGFR3JY21M",
+  "date": "2021-03-01T07:53:45.919Z",
+  "author": {
+    "name": "Iiro Krankka"
+  },
+  "message": "The email notifications have actually been requested by some other people as well. I'll scope the minimum viable implementation and get back to you.\n\nThe paragraphs being too close to each other is a one line CSS change from my part - I'll fix that today. You have full control over the CSS anyways, but it's not good if the base styles have a bug like that.\n\nThanks for considering, I'll get back to you soon!",
+  "replying_to": "01EZPBKAVPNBTFWHEGN2NRHZKF"
+}

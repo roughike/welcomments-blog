@@ -1,0 +1,35 @@
+site_title: Welcomments Blog
+url: https://blog.welcomments.io
+collections:
+  posts:
+    output: true
+    permalink: /:slug
+
+excerpt_separator: <!-- more -->
+
+# Build settings
+port: 3999
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-postcss
+  - jekyll-purgecss
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - cypress
+  - serve_m1.sh
+  - tsconfig.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - yarn.lock
+  - package-lock.json
+  - README.md
+  - postcss.config.js
+  - purgecss.config.js
+  - netlify.toml
+  - bin
+  - .gitignore

@@ -1,0 +1,9 @@
+{
+  "id": "01F0VP78RYB0MRVH608T5VE682",
+  "date": "2021-03-15T19:36:19.998319",
+  "author": {
+    "name": "Iiro Krankka",
+    "website": "https://welcomments.io"
+  },
+  "message": "Hey there!\n\nThese comments are powered by Welcomments, and they are **fully static prebuilt HTML**.\n\nThey are stored as JSON files in a GitHub repository. Whenever there’s a new change in the GitHub repository, Netlify runs a new Jekyll build that crunches all the articles and comments into beautiful static HTML.\n\nDon’t believe me? [See the JSON file for this very comment](https://github.com/roughike/welcomments-blog/tree/master/_data/welcomments/introducing-welcomments).\n\nFeel free to test this it out yourself by commenting below :-)"
+}

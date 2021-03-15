@@ -21,7 +21,6 @@ plugins:
 exclude:
   - cypress
   - serve_m1.sh
-  - tsconfig.json
   - Gemfile
   - Gemfile.lock
   - node_modules
@@ -33,3 +32,4 @@ exclude:
   - netlify.toml
   - bin
   - .gitignore
+  - package.json

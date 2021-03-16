@@ -1,0 +1,9 @@
+{
+  "id": "01F0X0M17F9VVH3FD735036JW6",
+  "date": "2021-03-16T07:57:18.447148",
+  "author": {
+    "name": "Iiro Krankka",
+    "website": "https://welcomments.io"
+  },
+  "message": "It refreshes instantly due to the optional Javascript snippet that we provide to you!\n\nHere's how it works:\n1. User posts a comment.\n2. JS snippet prevents form submission and submits it to our API as an XMLHttpRequest.\n3. Upon receiving a successful response, the comment is saved in localStorage, so that the user sees it instantly. This prevents confusion and double submissions.\n4. When the Netlify build finishes and the comment becomes static prebuilt HTML, the comment gets removed from localStorage.\n\nThe comment is also visible for other users using the [pending comments API](https://welcomments.io/api/websites/5In9hAnWPzU3oWx59sFV/pages/introducing-welcomments/pending-comments?most_recent_comment_id=01F0VVCYKSGSK50H4EKNSTYBK0) that dynamically loads comments that haven't built yet. So if there's a lot of comments in a short time window, the comment section acts like dynamic comments until the Netlify build finishes.\n\nYou can test this by submitting a comment and then seeing how it's visible in an incognito window :-)\n\nAs I mentioned, Welcomments also works without any Javascript, but in that case, it's not very interactive and you have to wait for a couple minutes for the Netlify build to finish."
+}

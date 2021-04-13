@@ -1,0 +1,10 @@
+{
+  "id": "01F35A4EWFTM8P3NDF9HQR6AB2",
+  "date": "2021-04-13T09:48:53.007331",
+  "author": {
+    "name": "Iiro Krankka",
+    "website": "https://welcomments.io"
+  },
+  "message": "Hey!\n\nI have a migrator tool but there's no easy to use interface for it yet. I'll also want to manually verify the output so that all looks good.\n\nRight now, you can send the XML file as an attachment to [hello@welcomments.io](mailto:hello@welcomments.io) with some details such as the Welcomments website id and I'll do the migration for you.",
+  "replying_to": "01F3541W2WE92XG4E8EE8ZV1VT"
+}

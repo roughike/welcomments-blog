@@ -1,0 +1,10 @@
+{
+  "id": "01F35A8XJP8RTRW6ADHN6ZVFCE",
+  "date": "2021-04-13T09:51:19.126801",
+  "author": {
+    "name": "Iiro Krankka",
+    "website": "https://welcomments.io"
+  },
+  "message": "Right now, you can manually delete the json files from your GitHub repository or edit them, but there's no support for anything more advanced than that yet. It's on the backlog, but I have other things I want to polish before getting there :-)",
+  "replying_to": "01F354GNVKV2G9TQWDSG6S6W3G"
+}

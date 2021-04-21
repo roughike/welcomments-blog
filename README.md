@@ -1,5 +1,3 @@
-# Welcomments blog
+The legacy Welcomments blog.
 
-The official blog for [Welcomments](https://welcomments.io).
-
-See it live at [blog.welcomments.io](https://blog.welcomments.io).
+This was merged to the website - see [the welcomments/website repository](https://github.com/welcomments/website).
